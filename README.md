@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Majid Arasteh
-- 👀 I’m interested in Big data, data mining, data science, programming especially python
-- 🌱 I’m currently learning Artificial Neural Networks
+- 👀 I’m interested in Big data, Machine learning, data science, and programming.
+- 🌱 I’m currently learning and implementing AI and ML algorithms.
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me: arasteh.majid@gmail.com
 
